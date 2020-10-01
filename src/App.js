@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <p>Welcome to Post Occupancy Media</p>
+      <p>Welcome to Post Occupancy Media, with automatic deployment</p>
     </div>
   );
 }
